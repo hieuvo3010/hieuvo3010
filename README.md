@@ -6,10 +6,10 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🎓 I'm fourth-year student at University of Technology and Education HCMC
-- 🔭 I’m currently working as a Web developer
-- 🌱 I’m currently learning Laravel, Nodejs, HTML/CSS/JS, ReactJS
-
+* 🎓 I'm fourth-year student at University of Technology and Education HCMC
+* 🔭 I’m currently working as a Web developer
+* 🌱 I’m currently learning Laravel, Nodejs, HTML/CSS/JS
+* 📫 Reach me at hieuvtm3010@gmail.com
 
 <br>Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
 
@@ -76,7 +76,7 @@
 
 
 
-
+Aaahhhhhh !! My contribution grapgh is getting eaten... 😶
 <p> 
  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/output/github-contribution-grid-snake.gif" />
 </p>
@@ -87,4 +87,6 @@
 <a href="https://fb.com/hieuvo3010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hridoy.the.hazard10" height="30" width="40" /></a>
 <a href="https://instagram.com/hieuvo3010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hridoyalhazard" height="30" width="40" /></a>
 <a href="https://github.com/hieuvo3010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="HridoyHazard" height="30" width="40" /></a>
-    
+
+#### **Visitor Count**
+ ![Visitor Count](https://profile-counter.glitch.me/{hieuvo3010}/count.svg)
